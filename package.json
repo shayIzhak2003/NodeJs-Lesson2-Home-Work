@@ -1,0 +1,15 @@
+{
+  "name": "homework-lesson2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shay shalom izhak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
