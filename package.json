@@ -2,7 +2,7 @@
   "name": "homework-lesson2",
   "version": "1.0.0",
   "description": "",
-  "main": "index4.js",
+  "main": "ls1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
